@@ -1,2 +1,2 @@
 config SHIELD_ST_44
-    def_bool $(shields_list_contains,gigapad)
+    def_bool $(shields_list_contains,st_44)

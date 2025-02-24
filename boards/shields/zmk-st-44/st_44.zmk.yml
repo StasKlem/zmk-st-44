@@ -1,0 +1,9 @@
+file_format: "1"
+id: ST_44
+name: ST_44
+type: shield
+requires: [pro_micro]
+features:
+  - keys
+siblings:
+  - st_44
