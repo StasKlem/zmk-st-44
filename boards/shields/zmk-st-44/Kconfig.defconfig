@@ -1,0 +1,6 @@
+if SHIELD_ST_44
+
+config ZMK_KEYBOARD_NAME
+    default "st_44"
+
+endif
